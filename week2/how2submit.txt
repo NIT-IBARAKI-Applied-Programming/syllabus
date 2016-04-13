@@ -1,0 +1,6 @@
+GitHubへの提出は以下の4コマンドで行います。
+$ git add -A
+$ git commit -m "第2週演習1提出"
+$ git push origin master
+
+git commitのコメント部分は適宜変更してください。
