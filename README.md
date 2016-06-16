@@ -14,3 +14,7 @@
 * 第5週(5月12日)：[講義資料](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week5/lecture.pdf)、[cat.txt](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week5/cat.txt)
 * 第6週(5月19日)：[講義資料](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week6/lecture.pdf)
 * 第7週(5月26日：演習回)：[補足資料](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week7/lecture.pdf)、[定期試験の実施について](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week7/exam.pdf) 
+
+* 前期中間試験
+
+* 第9週（6月16日）[講義資料](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week9/lecture.pdf)
