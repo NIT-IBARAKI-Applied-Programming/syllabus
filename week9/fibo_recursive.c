@@ -1,20 +1,28 @@
 #include <stdio.h>
-
+// フィボナッチ数を求める
 int fibo_recursive(int x) {
-  // aは2つ前、bは1つ前の数を格納
-  int a = 0, b = 1, c, i;
-  printf("%d %d ", a, b);
-
-  for(i = 0; i < 10; ++ i){                                                     
-    // 2つ前、1つ前の数を足して表示
-    printf("%d ", c = a + b); 
-    a = b;
-    b = c;
+  int f = 0;
+  switch (x) {
+    case 0:
+      f = 0; break;
+    case 1:
+      f = 1; break;
+    default:
+      f = fibo_recursive(x - 1) + fibo_recursive(x - 2);
+      break;
   }
-  printf("\n");
-  return 0;
+    return (f);
 }
 
 int main(void) {
-  fibo_recursive(10);
+    int n;
+    //　キーボードから値を読み込み
+    printf("n = ");
+    scanf("%d", &n);
+
+    // フィボナッチ数列を表示
+    for(int i = 0; i <= n; i++) {
+      printf("F(%d) = %d\n", i, fibo_recursive(i));
+    }
+    return 0;
 }

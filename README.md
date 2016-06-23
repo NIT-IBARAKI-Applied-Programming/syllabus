@@ -18,3 +18,5 @@
 * 前期中間試験
 
 * 第9週（6月16日）[講義資料](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week9/lecture.pdf)
+* 第10週（6月23日）[講義資料](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week10/lecture.pdf)
+
