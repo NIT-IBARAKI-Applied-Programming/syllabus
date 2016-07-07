@@ -2,10 +2,10 @@
 
 int main(void) {
   int i, data_size = 0;
-  int a[512];    /* 大きめのサイズの配列を用意しておく． */
+  int a[50000];    /* 大きめのサイズの配列を用意しておく． */
   FILE *fp;
  
-  fp = fopen("~ishigaki/sample4binary.txt", "r");
+  fp = fopen("sample4binary.txt", "r");
   if(fp == NULL) {
     printf("ファイルを開くことが出来ませんでした．¥n");
     return 0;
@@ -13,7 +13,7 @@ int main(void) {
 
   /*  ファイルが終わりでない　「かつ」　
     配列を飛び出さないうちは，読み込みを続ける  */
-  while ( ! feof(fp) && data_size < 512) {
+  while ( ! feof(fp) && data_size < 50000) {
     fscanf(fp, "%d", &(a[data_size]));
     data_size++;
   }
