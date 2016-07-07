@@ -1,0 +1,4 @@
+[http]
+proxy = http://po.cc.ibaraki-ct.ac.jp:3128
+[https 
+proxy = http://po.cc.ibaraki-ct.ac.jp:3128
