@@ -20,4 +20,7 @@
 * 第9週（6月16日）[講義資料](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week9/lecture.pdf)
 * 第10週（6月23日）[講義資料](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week10/lecture.pdf)
 * 第11週（6月30日）[講義資料](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week11/lecture.pdf)
+* 第12週（7月7日）[講義資料](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week12/lecture.pdf)
+* 第13週（7月14日）[講義資料](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week13/lecture.pdf)
+
 
