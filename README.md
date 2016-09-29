@@ -24,4 +24,6 @@
 * 第13週（7月14日）[講義資料](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week13/lecture.pdf)
 * 第14週（7月28日）[講義資料](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week14/lecture.pdf)
 
+* 夏休み
 
+* 第16週（9月29日）[講義資料](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week16/lecture.pdf)
