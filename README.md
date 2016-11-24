@@ -26,9 +26,13 @@
 
 * 夏休み
 
-* 第16週(講義第1週)（9月29日）[講義資料](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week16/lecture.pdf)
-* 第17週(講義第1週)（10月6日）[講義資料](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week17/lecture.pdf)
-* 第18週(講義第1週)（10月13日）[講義資料](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week18/lecture.pdf)
-* 第19週(講義第1週)（10月20日）[講義資料](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week19/lecture.pdf)
-* 第20週(講義第1週)（10月27日）[講義資料](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week20/lecture.pdf)
+* 第16週(後期第1週)（9月29日）[講義資料](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week16/lecture.pdf)
+* 第17週(後期第2週)（10月6日）[講義資料](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week17/lecture.pdf)
+* 第18週(後期第3週)（10月13日）[講義資料](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week18/lecture.pdf)
+* 第19週(後期第4週)（10月20日）[講義資料](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week19/lecture.pdf)
+* 第20週(後期第5週)（10月27日）[講義資料](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week20/lecture.pdf)
+* 第21週　休講
+* 第22週　後期中間試験
+* 第23週　試験返却
+* 第24週(後期第9週)（11月24日）[講義資料](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week24/lecture.pdf)
 
