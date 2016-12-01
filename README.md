@@ -35,4 +35,5 @@
 * 第22週　後期中間試験
 * 第23週　試験返却
 * 第24週(後期第9週)（11月24日）[講義資料](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week24/lecture.pdf)
+* 第25週(後期第10週)（12月1日）[講義資料](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week25/lecture.pdf)
 
