@@ -39,4 +39,5 @@
 * 第26週（後期第11週）（12月8日）：休講
 * 第27週(後期第12週)（12月15日）[講義資料](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week27/lecture.pdf)
 * 第28週(後期第13週)（12月22日）[講義資料](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week28/lecture.pdf)
+* 第29週(後期第14週)（1月19日）[講義資料](https://github.com/NIT-IBARAKI-Applied-Programming/syllabus/raw/master/week29/lecture.pdf)
 

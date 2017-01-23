@@ -1,0 +1,19 @@
+// 演習1-1から演習2-3は解答省略
+
+// 演習3-1
+cp ~ishigaki/neko.txt neko.txt
+~ishigaki/bin/mecab < neko.txt > neko.mecab
+
+// 演習3-2
+grep "名詞," neko.mecab > neko.mecab.noun
+
+// 演習3-3
+//// uniqコマンドはソート済みデータにしか使えないことに注意
+sort neko.mecab.noun | uniq -c > neko.mecab.noun.uniq
+
+// 演習3-4
+sort -r nako.mecab.noun.uniq > nako.mecab.noun.uniq.sort
+
+// 演習4
+//// 名詞の場合(他は適宜名詞の部分を変更する。)
+~ishigaki/bin/mecab < neko.txt | grep "名詞," | sort | uniq -c | sort -r | head -n 20
